@@ -16,7 +16,7 @@
     "@types/node": "^20.11.28",
     "chai": "^4.4.1",
     "dotenv": "^16.0.3",
-    "locklift": "^2.9.3",
+    "locklift": "^1.5.3",
     "prettier": "^3.2.5",
     "ts-mocha": "^10.0.0",
     "typescript": "^4.7.4"
